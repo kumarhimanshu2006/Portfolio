@@ -24,7 +24,7 @@ const Projects = () => {
     "A modern and responsive personal portfolio website designed to showcase my projects, technical skills, achievements, and contact information. It features smooth navigation, interactive UI components, project highlights with GitHub links, and a fully responsive design to provide an optimal viewing experience across all devices.",
   tech: ["React.js", "Vite", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
   image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
-  liveLink: "#",
+  liveLink: "https://himanshukr.netlify.app/",
   repoLink: "https://github.com/kumarhimanshu2006/Portfolio.git",
   },
   {
