@@ -17,7 +17,26 @@ const Projects = () => {
       liveLink: "https://yourprofileviewer.netlify.app/",
       repoLink: "https://github.com/kumarhimanshu2006/Github-Profile-Viewer",
     },
-    {
+     
+   {
+  title: "Personal Portfolio",
+  description:
+    "A modern and responsive personal portfolio website designed to showcase my projects, technical skills, achievements, and contact information. It features smooth navigation, interactive UI components, project highlights with GitHub links, and a fully responsive design to provide an optimal viewing experience across all devices.",
+  tech: ["React.js", "Vite", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
+  image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+  liveLink: "#",
+  repoLink: "https://github.com/kumarhimanshu2006/Portfolio.git",
+  },
+  {
+  title: "WanderLuxe",
+  description:
+    "A full-stack Airbnb-inspired web application that allows users to browse, create, edit, and manage property listings. Features secure authentication, image-based listings, interactive property details, and responsive design. Built using the MERN stack with server-side rendering and database integration for a seamless booking and hosting experience.",
+    tech: ["Node.js", "Express.js", "MongoDB", "Mongoose", "EJS", "Bootstrap"],
+    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+   liveLink: "#",
+   repoLink: "https://github.com/kumarhimanshu2006/Wander-Luxe.git",
+  },
+  {
       title: "Pizza Store",
       description:
         "A fully functional e-commerce web application built with React.js featuring dynamic product listing, shopping cart functionality, and component-based architecture. Implements state management, routing, and responsive design for seamless user experience across devices.",
@@ -34,7 +53,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
       liveLink: "#",
       repoLink: "https://github.com/kumarhimanshu2006",
-    },
+    }, 
     
   ];
 

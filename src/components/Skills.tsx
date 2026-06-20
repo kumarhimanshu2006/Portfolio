@@ -15,8 +15,8 @@ const Skills = () => {
     { name: "Python", level: 60, category: "Programming" },
      {name: "Java", level: 85, category: "Programming" },
     { name: "C", level: 75, category: "Programming" },
-    { name: "Kali Linux", level: 70, category: "Cybersecurity" },
-    { name: "Shell Scripting", level: 70, category: "Tools" },
+    { name: "Ubantu Linux", level: 70, category: "Cybersecurity" },
+    
   ];
 
   const categories = Array.from(new Set(skills.map((s) => s.category)));
